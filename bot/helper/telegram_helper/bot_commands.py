@@ -1,10 +1,10 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'mirror'
+        self.MirrorCommand = 'megadownload'
         self.UnzipMirrorCommand = 'unzipmirror'
         self.TarMirrorCommand = 'tarmirror'
-        self.CancelMirror = 'cancel'
+        self.CancelMirror = 'megacancel'
         self.CancelAllCommand = 'cancelall'
         self.ListCommand = 'list'
         self.StatusCommand = 'status'
