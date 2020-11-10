@@ -66,10 +66,6 @@ stats - Bot Usage Stats
 help - Get Detailed Help
 log - Bot Log [owner only]
 ```
-
-# How to deploy?
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 ## Setting up config file
 ```
 cp config_sample.env config.env
